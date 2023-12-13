@@ -8,6 +8,7 @@ numpy = "*"
 matplotlib = "*"
 pandas = "*"
 scikit-learn = "*"
+discord = "*"
 
 [dev-packages]
 ipykernel = "*"
